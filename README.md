@@ -334,6 +334,52 @@ Manipulating dates in sas r and python sql adding time periods to start dates
     https://github.com/rogerjdeangelis/utl-update-master-using-transaction-data-using-sql-in-sas-r-and-python
     https://github.com/rogerjdeangelis/utl-using-column-position-instead-of-excel-column-names-due-to-misspellings-sas-r-python
     https://github.com/rogerjdeangelis/utl-very-simple-sql-join-and-summary-in-python-r-wps-and-sas
+    https://github.com/rogerjdeangelis/utl-append-rows-and-merge-with-reference-table-in-sql-wps-r-and-python                           
+    https://github.com/rogerjdeangelis/utl-calculate-percentage-by-group-in-wps-r-python-excel-sql-no-sql                               
+    https://github.com/rogerjdeangelis/utl-calculating-median-values-by-group-wps-r-python-sql                                          
+    https://github.com/rogerjdeangelis/utl-calculations-involving-a-sql-self-join-in-wps-r-and-python                                   
+    https://github.com/rogerjdeangelis/utl-cartesian-join-with-condition-in-sql-wps-r-python                                            
+    https://github.com/rogerjdeangelis/utl-change-from-baseline-to-week1-to-week8-using-wps-r-python-base-and-sql                       
+    https://github.com/rogerjdeangelis/utl-common-products-sold-by-two-stores-split-string-pivot-long-sql-wps-r-and-python              
+    https://github.com/rogerjdeangelis/utl-compute-the-mean-by-group-using-sas-wps-python-r-native-code-and-sql                         
+    https://github.com/rogerjdeangelis/utl-converting-multiple-columns-from-numeric-to-character-in-sql-wps-r-python                    
+    https://github.com/rogerjdeangelis/utl-converting-sas-proc-rank-to-wps-python-r-sql                                                 
+    https://github.com/rogerjdeangelis/utl-create-equally-spaced-values-using-partitioning-in-sql-wps-r-python                          
+    https://github.com/rogerjdeangelis/utl-create-new-column-based-on-complex-logic-involving-four-other-columns-in-wps-r-python-sql-nos
+    https://github.com/rogerjdeangelis/utl-create-summary-statistics-datasets-in-sql-wps-r-python                                       
+    https://github.com/rogerjdeangelis/utl-distance-between-a-point-and-curve-in-sql-and-wps-pythony-r-sympy                            
+    https://github.com/rogerjdeangelis/utl-doblebook-hotel-and-same-guest-booked--hotel-same-day-in-different-years-sql-wps-r-py        
+    https://github.com/rogerjdeangelis/utl-efficiently-swap-values-between-related-columns-in-wps-r-python-sql-nosql                    
+    https://github.com/rogerjdeangelis/utl-exporting-python-panda-dataframes-to-wps-r-using-a-shared-sqllite-database                   
+    https://github.com/rogerjdeangelis/utl-frequency-of-duplicated-digits-in-social-security-numbers-in-wps-r-python-sql                
+    https://github.com/rogerjdeangelis/utl-group-by-id-an-subtract-fist.date-from-last.date-using-wps-r-and-python-native-and-sql       
+    https://github.com/rogerjdeangelis/utl-how-to-compare-one-set-of-columns-with-another-set-of-columns-wps-r-python-sql               
+    https://github.com/rogerjdeangelis/utl-last-value-carried-backwards-using-mutate-dow-sql-in-wps-sas-r-python                        
+    https://github.com/rogerjdeangelis/utl-left-join-two-datasets-to-a-master-dataset-native-and-sql-using-wps-sas-r-and-python         
+    https://github.com/rogerjdeangelis/utl-manipulate-excel-directly-using-passthru-microsoft-sql-wps-r-rodbc                           
+    https://github.com/rogerjdeangelis/utl-merging-inner-join-dataframes-based-on-single-primary-key-in-wps-r-python-sql-nosql          
+    https://github.com/rogerjdeangelis/utl-mysql-queries-without-sas-using-r-python-and-wps                                             
+    https://github.com/rogerjdeangelis/utl-nearest-sales-date-on-or-before-a-commercial-date-using-r-roll-join-and-wps-r-and-python-sql 
+    https://github.com/rogerjdeangelis/utl-partial-sql-join-based-on-a-column-value-in-wps-sas-r-and-python                             
+    https://github.com/rogerjdeangelis/utl-passing-arguments-to-sqldf-wps-r-sql-functional-sql                                          
+    https://github.com/rogerjdeangelis/utl-pivot-long-pivot-wide-transpose-partitioning-sql-arrays-wps-r-python                         
+    https://github.com/rogerjdeangelis/utl-pivot-transpose-by-id-using-wps-r-python-sql-using-partitioning                              
+    https://github.com/rogerjdeangelis/utl-rename-and-cast-char-to-numeric-using-do-over-arrays-in-natve-and-mysql-wps-r-python         
+    https://github.com/rogerjdeangelis/utl-sas-proc-transpose-in-sas-r-wps-python-native-and-sql-code                                   
+    https://github.com/rogerjdeangelis/utl-sas-proc-transpose-wide-to-long-in-sas-wps-r-python-native-and-sql                           
+    https://github.com/rogerjdeangelis/utl-select-all-unique-pairs-of-ingredients-in-salads-r-wps-r-python-sql                          
+    https://github.com/rogerjdeangelis/utl-select-groups-of-rows-having-a-compound-condition-and-further-subset-using-wps-r-python-sql  
+    https://github.com/rogerjdeangelis/utl-select-students-that-have-not-transfered-schools-over-the-last-three-years-wps-r-python-sql  
+    https://github.com/rogerjdeangelis/utl-select-the-first-two-observations-from-each-group-wps-r-python-sql                           
+    https://github.com/rogerjdeangelis/utl-self-join-get-all-combinations-where-left-col-less-then-right-col-sql-wps-r-and-python       
+    https://github.com/rogerjdeangelis/utl-set-type-for-subject-based-on-baseline-dose-wps-r-python-sql                                 
+    https://github.com/rogerjdeangelis/utl-simple-classic-transpose-pivot-wider-in-native-and-sql-wps-r-python                          
+    https://github.com/rogerjdeangelis/utl-simple-conditional-summarization-in-sql-wps-r-and-python-multi-language                      
+    https://github.com/rogerjdeangelis/utl-simple-left-join-in-native-r-and-sql-wps-r-and-python                                        
+    https://github.com/rogerjdeangelis/utl-top-four-seasonal-precipitation-totals--european-cities-sql-partitions-in-wps-r-python       
+    https://github.com/rogerjdeangelis/utl-transpose-pivot-wide-using-sql-partitioning-in-wps-r-python                                  
+    https://github.com/rogerjdeangelis/utl-using-sql-in-wps-r-python-select-the-four-youngest-male-and-female-students-partitioning     
+    https://github.com/rogerjdeangelis/utl-very-simple-sql-join-and-summary-in-python-r-wps-and-sas                                     
 
 
     /*              _
